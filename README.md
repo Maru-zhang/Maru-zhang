@@ -25,13 +25,3 @@
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Truffle](https://img.shields.io/badge/-Truffle-CA674F?style=flat-square&logo=truffle&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
-
-## Projects
-
-I'm in the process of transitioning my portfolio to include blockchain-based projects. Stay tuned for updates!
-
-## Connect With Me
-
-- Twitter: [Byron.Z](https://twitter.com/Web3_Byron)
-- GitHub: [Maru-zhang](https://github.com/Maru-zhang)
-
